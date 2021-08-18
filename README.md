@@ -2,6 +2,11 @@
 
 We have been provided with information about the customers' historical purchase as the amount of money spent, Number of inactive months and so on. Two columns `Potential_Customer` and `Cust_Last_Purchase` represent the customers' respond to the latest promotion. The column `Potential_Customer` represents if the customer purchased any product, and the column `Cust_Last_Purchase` represents the amount of this purchase and it is `Nan` if there has been no purchase.
 
+## Objective
+**Design a predictive model to determine the potential customers.** The target variable is `Potential_Customer`. 
+
+**Attention:** Because the column `Cust_Last_Purchase` relates to the target variable `Potential_Customer`, need to exclude it from model.
+
 # Table of Content
 
 - [JDS Capstone](#JDS-Capstone)
