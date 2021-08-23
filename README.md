@@ -9,11 +9,11 @@ We have been provided with information about the customers' historical purchase 
 
 # Table of Content
 
-- [JDS Capstone](#JDS-Capstone)
-- [Data description](#Data-description)
-- [Objective](#Objective)
-- [Submission Guideline](#Submission-Guideline)
-- [Presentation Guideline](#Presentation-Guideline)
+- [JDS Capstone]
+- [Data description]
+- [Objective]
+- [Submission Guideline]
+- [Presentation Guideline]
 - [Table of Content](#Table-of-Content)
 - [0. Import necessary Packages](#-<font-color=green-0.-Import-necessary-Packages<font>)
 - [1. Load the Data into Pandas Dataframe](#<font-color=green-1.-Load-the-Data-into-Pandas-Dataframe<font>)
